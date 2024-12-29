@@ -1,6 +1,6 @@
 # quiz__game
 
-This code implements a **multiple-choice quiz game** where questions are presented randomly, and the user inputs their answers. Here's the theoretical explanation:
+This code implements a **multiple-choice quiz game** where questions are presented randomly, and the user inputs their answers.
 
 ---
 
